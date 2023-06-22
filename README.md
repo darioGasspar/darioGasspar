@@ -10,8 +10,7 @@
       alt = "Twitter Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCVfQudY3Qhx2ce0L7_8xGzg" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCVfQudY3Qhx2ce0L7_8xGzg
-"
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCVfQudY3Qhx2ce0L7_8xGzg"
       alt = "Youtube Badge"/>
   </a>
 </div>
