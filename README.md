@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-  <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width"200">
+  <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width"50">
   <h1 align="center">Hi 👋, I'm Dario Gaspar </h1>
   <h3 align="center">Passionate student of technology. Looking for opportunities to grow, collaborate and make my mark in the world of software. Pursuing knowledge and challenging myself on every line of code!
 </div>
