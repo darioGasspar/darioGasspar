@@ -1,5 +1,5 @@
 <div id="header" style="display: flex; justify-content: center;">
-  <img src="https://img.freepik.com/vector-gratis/particula-tecnologia-abstracta-realista-fondo_23-2148431735.jpg?w=1060&t=st=1687417789~exp=1687418389~hmac=209b64a46e8f33899a470a777041a662e34c08e515481ca73068cfc2877eb20c" width="900" height="250">
+  <img src="https://media.istockphoto.com/id/1449224970/es/foto/gr%C3%A1fico-financiero-abstracto-con-gr%C3%A1fico-de-velas-de-l%C3%ADnea-de-tendencia-alcista-en-el-mercado.jpg?b=1&s=170667a&w=0&k=20&c=mKkoxJpoCuXLBygcyKmVT_i17TSC4U_ou1fEcCy6GJU=" width="900" height="250">
 </div>
   <h1 align="center">Hi 👋, I'm Dario Gaspar </h1>
   <h3 align="center">Passionate student of technology. Looking for opportunities to grow, collaborate and make my mark in the world of software. Pursuing knowledge and challenging myself on every line of code!
