@@ -14,7 +14,9 @@
       alt = "Youtube Badge"/>
   </a>
 </div>
+    
 ---
+
 ### About Me:
 - 🌱 I am currently learning Programming
 - 👯 I am looking to collaborate in a technological entity
