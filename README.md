@@ -14,9 +14,10 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCVfQudY3Qhx2ce0L7_8xGzg"
       alt = "Youtube Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/dario-gaspar-0b044a280/"_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdario-gaspar-0b044a280%2F-blue?logo=linkedin&logoColor=white&labelColor=blue"
-      alt = "Linkedin Badge"/>
+  <a href="https://www.linkedin.com/in/dario-gaspar-0b044a280/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue" alt="Linkedin Badge"/>
+</a>
+
   </a>
 </div>
     
