@@ -15,11 +15,11 @@
   </a>
 </div>
 ---
-###About Me:
+### About Me:
 - 🌱 I am currently learning Programming
 - 👯 I am looking to collaborate in a technological entity
 - 🤔 I am looking for help with the new updates about the programming language
 - 💬 Ask me for ways to study and learn
 - 📫 How to contact me: I am very frequently active on social networks
 - ⚡ Fun facts: I maintain a healthy life
--->
+
