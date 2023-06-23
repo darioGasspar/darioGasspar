@@ -15,6 +15,12 @@
   <a href="https://www.youtube.com/channel/UCVfQudY3Qhx2ce0L7_8xGzg" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCVfQudY3Qhx2ce0L7_8xGzg"
       alt = "Youtube Badge"/>
+    <a href="https://www.facebook.com/ruben.gaspar.7737" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook Badge"/>
+  </a>
+    <a href="https://www.instagram.com/rgdariospar/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram Badge"/>
+  </a>
   </a>
   <a href="https://www.linkedin.com/in/dario-gaspar-0b044a280/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue" alt="Linkedin Badge"/>
